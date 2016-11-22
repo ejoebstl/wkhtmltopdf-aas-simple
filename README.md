@@ -29,6 +29,7 @@ node compiled/index.js
 
 ```
 docker pull ejobstl/wkhtmltopdf-aas-simple
+docker run -p 8080:80 ejoebstl/wkhtmltopdf-aas-simple
 ```
 
 ## Security Considerations
