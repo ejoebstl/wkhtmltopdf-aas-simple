@@ -1,0 +1,27 @@
+{
+  "name": "wkhtmltopdf-aas-simple",
+  "version": "1.0.0",
+  "description": "Simple node-based service for wkhtmltopdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejoebstl/wkhtmltopdf-aas-simple.git"
+  },
+  "keywords": [
+    "pdf",
+    "url",
+    "simple",
+    "saas",
+    "node",
+    "docker"
+  ],
+  "author": "Emanuel Jöbstl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejoebstl/wkhtmltopdf-aas-simple/issues"
+  },
+  "homepage": "https://github.com/ejoebstl/wkhtmltopdf-aas-simple#readme"
+}
