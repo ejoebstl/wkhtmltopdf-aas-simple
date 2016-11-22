@@ -1,5 +1,5 @@
 # wkhtmltopdf-aas-simple
-Post URL, receive PDF. Build upon node and docker. 
+Post URL, receive PDF. Build upon node and docker. 🚀
 
 ## How to use
 
@@ -7,8 +7,10 @@ This is a tiny node service, which listens only to a single route: `\`. The serv
 
 *Options*
 
-`url`: The url of the website to render as PDF. 
+`url`: The url of the website to render as PDF.  
+
 `html`: HTML to render as PDF. Either `url` or `html` have to be set.  
+
 `options`: String of options forwarded to `wkhtmltopdf`.
 
 *Sample usage*
